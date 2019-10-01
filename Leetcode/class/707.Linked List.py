@@ -64,10 +64,15 @@ class MyLinkedList:
          """
       中間加Node
          """
-  def addAtIndex(self, index: int, val: int) -> None:
-        if index < 0 or index > self.size:
-            return 
-        if index == 0:
+  def addAtIndex(self, index: int, val: int) -> None:      
+        if index < 0 and index != -1:
+            pass
+        elif index > self.size:
+            pass
+        elif index == self.size or index == -1:
+            self.addAtTail(val)
+
+        elif index == 0:
             self.addAtHead(val)
         else:
             a = self.head
@@ -78,7 +83,6 @@ class MyLinkedList:
             a.next = node
 
             self.size += 1
-
 
          """
       刪除其中Node
@@ -100,9 +104,4 @@ class MyLinkedList:
 
         self.size -= 1
 
-    def get_list(self):
-        '''測試用，可回傳list'''
-        if self.len != 0:
-            return [self.get(item) for item in range(self.len)]
-        else :
-            return -1
+

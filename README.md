@@ -18,7 +18,7 @@ alt="Welcome" width="200" height="180" border="10" />
 ⊙ [Linked list](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/707.Linked%20List.py)</br>
 ### **Week2**
 ⊙ [Stack](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/155.Min%20Stack.py)</br>
-⊙ [Queue]()
+⊙ [Queue](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/232.%20Implement%20Queue%20using%20Stacks.py)</br>
 ### **Week3**
 ⊙ [Two Sum](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/practice/1.Two%20Sum.py)</br>
 ⊙ [Insertion Sort]()</br>

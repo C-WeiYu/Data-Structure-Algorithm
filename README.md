@@ -22,4 +22,6 @@ alt="Welcome" width="200" height="180" border="10" />
 ### **Week3**
 ⊙ [Two Sum](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/practice/1.Two%20Sum.py)</br>
 ⊙ [Insertion Sort]()</br>
-⊙ [Quick Sort]()</br>
+## **作業**
+### **First**
+⊙ [QuickSort]()</br>

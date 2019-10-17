@@ -26,3 +26,6 @@ alt="Welcome" width="200" height="180" border="10" />
 ### **Week3**
 ⊙ [Two Sum](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/practice/1.Two%20Sum.py)</br>
 ⊙ [Insertion Sort]()</br>
+## **補充**
+[什麼是大數據](https://www.managertoday.com.tw/articles/view/52306)</br>
+[Data Science Meetup台灣資料科學社群](https://www.facebook.com/groups/1356636874425968/)

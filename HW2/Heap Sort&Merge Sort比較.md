@@ -71,6 +71,6 @@ Unsable Sort並不會去顧慮到同花色之間的大小。(Ex:梅花排在一�
 
 
 # 參考網頁:
-1. ![老師的投影片內容](https://tingtseng.pixnet.net/blog/post/39924871-algorithm-time-complexity-%E6%BC%94%E7%AE%97%E6%B3%95%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6%E6%95%B4%E7%90%86)</p>
-2. ![講解Stable&Unstable Sorts的影片](https://www.youtube.com/watch?v=akLN-F0HSS4)</p>
-3. ![Why Heap Sort is unstable](https://stackoverflow.com/questions/19336881/why-isnt-heapsort-stable)
+1. [老師的投影片內容](https://tingtseng.pixnet.net/blog/post/39924871-algorithm-time-complexity-%E6%BC%94%E7%AE%97%E6%B3%95%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6%E6%95%B4%E7%90%86)</p>
+2. [講解Stable&Unstable Sorts的影片](https://www.youtube.com/watch?v=akLN-F0HSS4)</p>
+3. [Why Heap Sort is unstable](https://stackoverflow.com/questions/19336881/why-isnt-heapsort-stable)

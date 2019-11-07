@@ -68,7 +68,9 @@ Unsable Sort並不會去顧慮到同花色之間的大小。(Ex:梅花排在一�
 那麼原本array中在20b前面的20a經過排序後，會變在20b後面，</p>
 因此Heap Sort為Unstable。
 #### Merge Sort
-
+>Merge Sort因為從一開始就是以分堆的概念去比較，</p>
+因此即使array中有兩個一樣的數，比大小時遇到相等(20a、20b)，先把在左邊的儲存到結果的array，</p>
+那麼在結果的array中，排在左邊的那個數也一樣會在左邊(20a、20b)。</p>
 
 # 參考網頁:
 1. [老師的投影片內容](https://tingtseng.pixnet.net/blog/post/39924871-algorithm-time-complexity-%E6%BC%94%E7%AE%97%E6%B3%95%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6%E6%95%B4%E7%90%86)</p>

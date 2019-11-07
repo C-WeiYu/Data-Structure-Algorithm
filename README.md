@@ -4,8 +4,7 @@ alt="Welcome" width="200" height="180" border="10" /><img src="https://3.bp.blog
 alt="Welcome" width="200" height="180" border="10" /><img src="https://3.bp.blogspot.com/-W5A0GeF33ow/WKUMpYL4j3I/AAAAAAAF9WM/st8cl1ViS-ckg-Y5O6kLLaadptVVN7tAQCLcB/s1600/AS002342_02.gif" 
 alt="Welcome" width="200" height="180" border="10" />
 ## **作業**
-### **First**
-⊙ [QuickSort](https://github.com/C-WeiYu/WeiYu/tree/master/HomeWork/HW1)</br>
+⊙ [HW2](https://github.com/C-WeiYu/WeiYu/tree/master/HW2)</br>
 
   # [♫Zootopia](https://www.youtube.com/watch?v=QoXPVSSHzs8)</br>
   如電影般的人生，充滿失敗與成功，成為自己的導演，掌控結局

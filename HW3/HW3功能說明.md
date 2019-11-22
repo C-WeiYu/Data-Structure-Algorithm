@@ -31,7 +31,22 @@ modify的功能是要將Tree中的一個數(A)替換成另一個數(B)</br>
 1. 直接先delete要換掉的值(A)，再insert要替換進去的那個數(B)</br>
 2. 直接把要換掉的值用要替換進去的數取代，然後之後再把整個Tree依照BST以及其他的規定重新排列</br>
 3. 直接先把Tree走訪一次，並把過程的值全部append到一個list，把要換掉的數用要取代的數在list裡面取代，然後把list依照大小排列，再把排列完的Tree設中間值為root，然後重寫成一個Tree
+----------------------------------------------------------------
+## 時間複雜度:
+**1.search:**</br>
+worst: O(n)</br>
+average: O(h)</br>
+**2.insert:**</br>
+worst: O(n)</br>
+average: O(h)</br>
+**3.delete**</br>
+worst: O(n)</br>
+average: O(h)</br>
+
+
 # 參考網站:
 1. http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html
 
 2. http://alrightchiu.github.io/SecondRound/binary-search-tree-sortpai-xu-deleteshan-chu-zi-liao.html
+
+3. https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/

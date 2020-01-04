@@ -15,11 +15,11 @@
 <img src="/pic/heapsort1.jpg" width="500" height="400" >
 
 ## [Merge Sort V.S. Heap Sort](https://github.com/C-WeiYu/WeiYu/blob/master/HW2/Heap%20Sort%26Merge%20Sort%E6%AF%94%E8%BC%83.md)
--[x] 概念
--[x] 程式碼
--[x] 時間複雜度
--[x] 額外空間
--[x] 穩定度
+- [x] 概念
+- [x] 程式碼
+- [x] 時間複雜度
+- [x] 額外空間
+- [x] 穩定度
 
 ## 歷程
 邁入第二次的作業，感覺逐漸能抓到感覺</br>

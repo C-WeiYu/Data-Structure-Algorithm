@@ -19,16 +19,40 @@ alt="Welcome" width="200" height="180" border="10" />
 - [x] [HW5:BFS and DFS](https://github.com/C-WeiYu/WeiYu/tree/master/HW5)</br>
 - [x] [HW6:Dijkstra and Kruskal](https://github.com/C-WeiYu/WeiYu/tree/master/HW6)</br>
 ## 課堂進度&筆記:
-### **Week1**
-+ [Linked list](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/707.Linked%20List.py)
-### **Week2**
-+ [Stack](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/155.Min%20Stack.py)
-+ [Queue](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/232.%20Implement%20Queue%20using%20Stacks.py)
-### **Week3**
-+ [Two Sum](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/practice/1.Two%20Sum.py)
-+ [Insertion Sort]()
-### **Week6**
-+ [Binary Tree](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/965.Univalued%20Binary%20Tree.py)
+
+### Week1
+- 停課或放假
+### Week2
+- [Introduce Linked list](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_logo)
+- [About Leetcode](https://leetcode.com/problemset/all/)
+- [About Codesignal](https://codesignal.com/)
+- [x][MY Linked list](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/707.Linked%20List.py)
+### Week3
+-[補充:About Stack](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
+-[補充:About Queue](http://alrightchiu.github.io/SecondRound/priority-queueintrojian-jie.html)
+-[Maze By Stack](https://www.youtube.com/watch?v=yCQLluCn3rc&feature=emb_logo)
+-[My Stack](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/155.Min%20Stack.py)
+-[My Queue](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/232.%20Implement%20Queue%20using%20Stacks.py)
+### Week4
+-[Set By Teacher](https://github.com/pecu/DSA/blob/master/03_Set/set-mismatch.py)
+-[Set Exercise](https://leetcode.com/problems/set-mismatch/)
+-[About Insertion Sort](http://notepad.yehyeh.net/Content/Algorithm/Sort/Insertion/1.php)
+-[Bubble Sort vs Quick Sort](https://www.youtube.com/watch?v=G4dwRF_Rzd0&feature=emb_logo)
+### Week5
+- 停課或放假
+### Week6
+### Week7
+### Week8
+### Week9
+### Week10
+### Week11
+### Week12
+### Week13
+### Week14
+### Week15
+### Week16
+### Week17
+### Week18
 
 ## CS50:
 

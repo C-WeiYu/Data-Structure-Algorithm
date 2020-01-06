@@ -26,18 +26,18 @@ alt="Welcome" width="200" height="180" border="10" />
 - [Introduce Linked list](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_logo)
 - [About Leetcode](https://leetcode.com/problemset/all/)
 - [About Codesignal](https://codesignal.com/)
-- [x][MY Linked list](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/707.Linked%20List.py)
+- [x] [MY Linked list](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/707.Linked%20List.py)
 ### Week3
--[補充:About Stack](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
--[補充:About Queue](http://alrightchiu.github.io/SecondRound/priority-queueintrojian-jie.html)
--[Maze By Stack](https://www.youtube.com/watch?v=yCQLluCn3rc&feature=emb_logo)
--[My Stack](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/155.Min%20Stack.py)
--[My Queue](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/232.%20Implement%20Queue%20using%20Stacks.py)
+- [補充:About Stack](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
+- [補充:About Queue](http://alrightchiu.github.io/SecondRound/priority-queueintrojian-jie.html)
+- [Maze By Stack](https://www.youtube.com/watch?v=yCQLluCn3rc&feature=emb_logo)
+- [x] [My Stack](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/155.Min%20Stack.py)
+- [x] [My Queue](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/232.%20Implement%20Queue%20using%20Stacks.py)
 ### Week4
--[Set By Teacher](https://github.com/pecu/DSA/blob/master/03_Set/set-mismatch.py)
--[Set Exercise](https://leetcode.com/problems/set-mismatch/)
--[About Insertion Sort](http://notepad.yehyeh.net/Content/Algorithm/Sort/Insertion/1.php)
--[Bubble Sort vs Quick Sort](https://www.youtube.com/watch?v=G4dwRF_Rzd0&feature=emb_logo)
+- [Set By Teacher](https://github.com/pecu/DSA/blob/master/03_Set/set-mismatch.py)
+- [Set Exercise](https://leetcode.com/problems/set-mismatch/)
+- [About Insertion Sort](http://notepad.yehyeh.net/Content/Algorithm/Sort/Insertion/1.php)
+- [Bubble Sort vs Quick Sort](https://www.youtube.com/watch?v=G4dwRF_Rzd0&feature=emb_logo)
 ### Week5
 - 停課或放假
 ### Week6

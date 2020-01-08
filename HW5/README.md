@@ -26,3 +26,6 @@
 >在記憶空間的方面，因為BFS的記憶空間與點的數量呈正比，而DFS是跟遞迴深度成正比，</br>
 所以記憶空間DFS會比BFS小，如果是在很多點的情況下，會選擇使用DFS而不會選擇BFS。
 
+## 參考資料
+- [BFS](http://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html)
+- [DFS](http://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html)

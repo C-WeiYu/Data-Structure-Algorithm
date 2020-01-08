@@ -11,13 +11,6 @@ alt="Welcome" width="200" height="180" border="10" />
 對我而言課業是種負擔，而從課業中尋求樂趣藉此投入才是中心</br>
 在學習程式設計這方面狀況並不樂觀，但我享受解開問題的瞬間</br>
 喜歡充滿挑戰的人生，沉浸於成功後的愉悅與光榮，這就是我</br>
-## 資料結構演算法作業:
-- [x] [HW1:QuickSort](https://github.com/C-WeiYu/WeiYu/tree/master/HW1)</br>
-- [x] [HW2:MergeSort and HeapSort](https://github.com/C-WeiYu/WeiYu/tree/master/HW2)</br>
-- [x] [HW3:Binary Search Tree](https://github.com/C-WeiYu/WeiYu/tree/master/HW3)</br>
-- [x] [HW4:Hash Table](https://github.com/C-WeiYu/WeiYu/tree/master/HW4)</br>
-- [x] [HW5:BFS and DFS](https://github.com/C-WeiYu/WeiYu/tree/master/HW5)</br>
-- [x] [HW6:Dijkstra and Kruskal](https://github.com/C-WeiYu/WeiYu/tree/master/HW6)</br>
 ## 課堂進度&筆記:
 **(因避免排版過於雜亂，以連結網頁內容取代上課內容)**
 ### Week1
@@ -73,20 +66,20 @@ alt="Welcome" width="200" height="180" border="10" />
 
 ## 作品集:
 ### 資料結構與演算法
-- [HW1:QuickSort](https://github.com/C-WeiYu/WeiYu/tree/master/HW1)
-- [HW2:HeapSort and MergeSort](https://github.com/C-WeiYu/WeiYu/tree/master/HW2)
-- [HW3:Binary Search Tree](https://github.com/C-WeiYu/WeiYu/tree/master/HW3)
-- [HW4:Hash Table](https://github.com/C-WeiYu/WeiYu/tree/master/HW4)
-- [HW5:BFS and DFS](https://github.com/C-WeiYu/WeiYu/tree/master/HW5)
-- [HW6:Kruskal and Dijkstra](https://github.com/C-WeiYu/WeiYu/tree/master/HW6)
+- [x] [HW1:QuickSort](https://github.com/C-WeiYu/WeiYu/tree/master/HW1)
+- [x] [HW2:MergeSort and HeapSort](https://github.com/C-WeiYu/WeiYu/tree/master/HW2)
+- [x] [HW3:Binary Search Tree](https://github.com/C-WeiYu/WeiYu/tree/master/HW3)
+- [x] [HW4:Hash Table](https://github.com/C-WeiYu/WeiYu/tree/master/HW4)
+- [x] [HW5:BFS and DFS](https://github.com/C-WeiYu/WeiYu/tree/master/HW5)
+- [x] [HW6:Dijkstra and Kruskal](https://github.com/C-WeiYu/WeiYu/tree/master/HW6)
 ### [CodeSignal](https://github.com/C-WeiYu/WeiYu/tree/master/CodeSignal)
 > 陸續將自己程式基礎補齊的足跡
 ### [LeetCode](https://github.com/C-WeiYu/WeiYu/tree/master/Leetcode)
 > 裡面有我在LeetCode慢慢累積的點滴
 ### HTML
 > 放上關於我在大學所做的html
-+ [Chocolate Worlde(Encoding with Big5)](https://c-weiyu.github.io/HTML/)
-+ [CS:GO Analysis(Encoding with utf-8)](https://c-weiyu.github.io/CS-GO_Analysis/)
+- [x] [Chocolate Worlde(Encoding with Big5)](https://c-weiyu.github.io/HTML/)
+- [x] [CS:GO Analysis(Encoding with utf-8)](https://c-weiyu.github.io/CS-GO_Analysis/)
 ## 學習之地:
 > 課外學習
 + [Data Science Meetup台灣資料科學社群](https://www.facebook.com/groups/1356636874425968/)</br>

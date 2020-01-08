@@ -9,4 +9,4 @@
 <img src="/pic/hash_table.png" width="500" height="300">
 
 ## 參考資料
-[Hash Table](https://zh.wikipedia.org/zh-tw/%E5%93%88%E5%B8%8C%E8%A1%A8)
+- [Hash Table](https://zh.wikipedia.org/zh-tw/%E5%93%88%E5%B8%8C%E8%A1%A8)

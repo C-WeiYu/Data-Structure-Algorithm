@@ -1,4 +1,15 @@
 ## Binary Search Tree
+**以樹的形式再加以規定**
+最上面的那個節點稱為root
+
+- 規則1 : 在這個樹中，每個節點都會有最少0個節點，最多2個節點(分別叫做root.left、root.right)
+
+- 規則2 在Binary Search Tree中，比root小的數要往root的左邊走，比root大的數要往root的右邊走
+
+- 規則3 在走訪的時候也必須像linked list一樣，從root到下面一個一個走訪，不能直接選取其中一個Node
+
+由於有先以大小的比較結果去做二分法，因此再搜尋的時候就不需要去和每個數字比較一次
+
 
 ### 功能:
 - [Search](#Search)

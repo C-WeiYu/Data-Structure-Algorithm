@@ -1,7 +1,9 @@
-<img src="http://a0.att.hudong.com/45/53/50200009239445155800535897521_s.jpg" 
-alt="Welcome" width="80" height="50" border="10" /> <img src="http://y3.ifengimg.com/ifengimcp/pic/20150831/ee56b0d7cf6afe54b5b2_size1767_w320_h180.gif" 
+<img src="http://a0.att.hudong.com/45/53/50200009239445155800535897521_s.jpg"
+width="80" height="50" border="10" /> <img src="http://y3.ifengimg.com/ifengimcp/pic/20150831/ee56b0d7cf6afe54b5b2_size1767_w320_h180.gif" 
 alt="Welcome" width="700" height="250" border="10" />
-
+# About Here
+>在這裡記錄我學習程式的過程，不管資料結構與演算法或是其他的作品，</br>
+之後都會在這裡陸續更新，歡迎大家收看，可以點Follow或星星或Fork。
 # [♫Zootopia](https://www.youtube.com/watch?v=QoXPVSSHzs8) <img src="https://i.ytimg.com/vi/CoSQ4BUqa4k/maxresdefault.jpg" alt="Welcome" width="50" height="30" border="10" />
 如電影般的人生，充滿失敗與成功，成為自己的導演，掌控結局
 ## 自我介紹:   

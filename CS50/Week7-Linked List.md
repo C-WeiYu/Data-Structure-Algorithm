@@ -15,10 +15,10 @@ Array要儲存必須有足夠的空間去放下整個Array，</br>
 <img src="/pic/CS50_linked list1.jpg" height="200" weight="600">
 
 ## Node
-<img src="pic/CS50_linked list2.jpg" height="200" weight="600">
+<img src="/pic/CS50_linked list2.jpg" height="200" weight="600">
 
 ## Search
-<img src="pic/CS50_linked list3.jpg" height="200" weight="600">
+<img src="/pic/CS50_linked list3.jpg" height="200" weight="600">
 
 ## 心得
 在講解Linked List的部分與上課內容大同小異，但影片中比較強調關於Linked List的重要性，</br>

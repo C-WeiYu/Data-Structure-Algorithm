@@ -1,8 +1,7 @@
-<img src="https://3.bp.blogspot.com/-W5A0GeF33ow/WKUMpYL4j3I/AAAAAAAF9WM/st8cl1ViS-ckg-Y5O6kLLaadptVVN7tAQCLcB/s1600/AS002342_02.gif" 
-alt="Welcome" width="200" height="180" border="10" /><img src="https://3.bp.blogspot.com/-W5A0GeF33ow/WKUMpYL4j3I/AAAAAAAF9WM/st8cl1ViS-ckg-Y5O6kLLaadptVVN7tAQCLcB/s1600/AS002342_02.gif" 
-alt="Welcome" width="200" height="180" border="10" /><img src="https://3.bp.blogspot.com/-W5A0GeF33ow/WKUMpYL4j3I/AAAAAAAF9WM/st8cl1ViS-ckg-Y5O6kLLaadptVVN7tAQCLcB/s1600/AS002342_02.gif" 
-alt="Welcome" width="200" height="180" border="10" /><img src="https://3.bp.blogspot.com/-W5A0GeF33ow/WKUMpYL4j3I/AAAAAAAF9WM/st8cl1ViS-ckg-Y5O6kLLaadptVVN7tAQCLcB/s1600/AS002342_02.gif" 
-alt="Welcome" width="200" height="180" border="10" />
+<img src="http://a0.att.hudong.com/45/53/50200009239445155800535897521_s.jpg" 
+alt="Welcome" width="80" height="50" border="10" /> <img src="http://y3.ifengimg.com/ifengimcp/pic/20150831/ee56b0d7cf6afe54b5b2_size1767_w320_h180.gif" 
+alt="Welcome" width="700" height="250" border="10" />
+
 # [♫Zootopia](https://www.youtube.com/watch?v=QoXPVSSHzs8) <img src="https://i.ytimg.com/vi/CoSQ4BUqa4k/maxresdefault.jpg" alt="Welcome" width="50" height="30" border="10" />
 如電影般的人生，充滿失敗與成功，成為自己的導演，掌控結局
 ## 自我介紹:   

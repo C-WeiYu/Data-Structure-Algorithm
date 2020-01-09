@@ -17,17 +17,20 @@ alt="Welcome" width="700" height="250" border="10" />
 ### Week1
 - 停課
 ### Week2:Linked List
-- [Introduce Linked list](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_logo)
+>講解Linked List的基本性質及Node的組成
+- [Introduce Linked List](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_logo)
 - [About Leetcode](https://leetcode.com/problemset/all/)
 - [About Codesignal](https://codesignal.com/)
 - [x] [MY Linked list](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/707.Linked%20List.py)
 ### Week3:Stack and Queue
+>接連著上禮拜的Linked List，延伸至Stack與Queue結構，並講解兩者的差異
 - [補充 : About Stack](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
 - [補充 : About Queue](http://alrightchiu.github.io/SecondRound/priority-queueintrojian-jie.html)
 - [Maze By Stack](https://www.youtube.com/watch?v=yCQLluCn3rc&feature=emb_logo)
 - [x] [My Stack](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/155.Min%20Stack.py)
 - [x] [My Queue](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/232.%20Implement%20Queue%20using%20Stacks.py)
 ### Week4:InsertionSort and QuickSort
+>演習課補充了InsertionSort的規則與示範，正課則講解QuickSort的運作方法
 - [Set By Teacher](https://github.com/pecu/DSA/blob/master/03_Set/set-mismatch.py)
 - [Set Exercise](https://leetcode.com/problems/set-mismatch/)
 - [About Insertion Sort](http://notepad.yehyeh.net/Content/Algorithm/Sort/Insertion/1.php)
@@ -36,54 +39,65 @@ alt="Welcome" width="700" height="250" border="10" />
 ### Week5
 - 放假
 ### Week6:QuickSort and HeapSort
+>除了補充上上星期的QuickSort外，講了關於HeapSort的運作方法，初次踏入了Tree結構</br>
+演習課的部分教了如何使用Spyder去增加Debug的效率
 - [補充 : About Quick Sort](http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html)
 - [補充 : About Heap Sort](http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
 - [Spyder Debug Mode](https://docs.spyder-ide.org/debugging.html)
 - [Python Code](https://realpython.com/python-pep8/?fbclid=IwAR1olxlNcAQhKZVNw6-JBCituCKsqfk3YL67xOMfQA-_fyqbHyrFJRm15T4)
 - [x] [My Heap Sort](https://github.com/C-WeiYu/WeiYu/blob/master/HW2/heap_sort_06170201.py)
 ### Week7:Merge Sort
+>講解MergeSort的運作方法並補充了HeapSort的資料結構
 - [Heap Sort](https://algorithm.yuanbin.me/zh-tw/basics_data_structure/heap.html)
 - [Merge Sort](https://www.c-programming-simple-steps.com/merge-sort.html)
 - [Merge Sort:Pseudocode](https://www.slideshare.net/MJabin/merge-sort-and-quick-sort)
 - [Merge Sort vs Quick Sort](https://www.youtube.com/watch?time_continue=1&v=es2T6KY45cA&feature=emb_logo)
 - [x] [My Merge Sort](https://github.com/C-WeiYu/WeiYu/blob/master/HW2/merge_sort_06170201.py)
 ### Week8:Binary Tree By Linked List
+>正式踏入Tree結構，並講解如何用Linked List去理解Binary Tree
 - [What are Trees](https://www.tutorialride.com/data-structures/trees-in-data-structure.htm)
 - [Binary Tree](http://alrightchiu.github.io/SecondRound/binary-tree-introjian-jie.html)
 - [Binary Tree Structure](http://www.math.bas.bg/~nkirov/2017/NETB201/slides/ch06/ch06-2.html)
 - [Binary Tree Structure_YT](https://www.youtube.com/watch?time_continue=150&v=ikPPdBDZnz4&feature=emb_logo)
 ### Week9:Binary Search Tree
+> 講解Binary Search Tree，並分辨Binary Search Tree與 Binary Tree的差別
 - [Binary Tree vs Binary Search Tree](https://www.youtube.com/watch?v=7vw2iIdqHlM&feature=emb_logo)
 - [Search and Insert](http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html)
 - [補充 : Delete](http://alrightchiu.github.io/SecondRound/binary-search-tree-sortpai-xu-deleteshan-chu-zi-liao.html)
 - [x] [My Binary Search Tree](https://github.com/C-WeiYu/WeiYu/blob/master/HW3/binary_search_tree_06170201.py)
 ### Week10:Red Black Tree
+>延續Binary Search Tree，以Red Black Tree解決BST不平衡的問題
 - [Red Black Tree Rule](https://yotsuba1022.gitbooks.io/data-structure-note/content/1.4.3-red-black-tree.html)
 - [Rotation](https://en.wikipedia.org/wiki/Tree_rotation)
 - [About Black Tree](http://www.ciaoshen.com/algorithm/2018/11/09/red-black-tree.html)
 - [Complexity](https://subscription.packtpub.com/book/application_development/9781786463890/6/ch06lvl1sec63/complexity-of-different-tree-data-structures)
 - [Practice Page](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 ### Week11:Hash Table
+>講解Hash Function的目的與Hash Table的使用方法及目的
 - [What is Hash Table](https://en.wikipedia.org/wiki/Hash_table)
 - [Hash Set](https://www.cs.wcupa.edu/rkline/ds/hash-sets.html)
 - [Hash Function](https://themoneymongers.com/bitcoin-hash/)
 - [進位制](/pic/hash.jpg)
 ### Week12:Breadth-First Search
+>介紹Bredth-First Search的運作方法
 - [About BFS](http://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html)
 - [BFS By Queue](https://www.programiz.com/dsa/graph-bfs)
 - [Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q&feature=youtu.be)
 ### Week13:Depth-First Search
+>介紹Depth-First Search的運作方法並和BFS比較
 - [About DFS](http://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html)
 - [DFS Step By Step](https://www.javatpoint.com/breadth-first-search-algorithm)
 - [DFS PseudoCode](https://www.youtube.com/watch?v=GFlthbUd7LQ&feature=youtu.be)
 - [DFS vs BFS](https://github.com/C-WeiYu/WeiYu/blob/master/pic/BFS%20vs%20DFS.md)
 - [x] [My BFS and DFS](https://github.com/C-WeiYu/WeiYu/blob/master/HW5/BFS_06170201.py)
 ### Week14:Minimum Spanning Tree - Kruskal
+>講解Kruskal的運作方法及使用目的
 - [About Kruskal](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%B2%81%E6%96%AF%E5%85%8B%E5%B0%94%E6%BC%94%E7%AE%97%E6%B3%95)
 - [Kruskal Step By Step](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 - [Maze By Kruskal](https://codereview.stackexchange.com/questions/197356/searching-a-maze-using-dfs-and-bfs-in-python-3)
 - [Informations](https://github.com/C-WeiYu/WeiYu/blob/master/Kruskal_inf.md)
 ### Week15:Shortest Path - Dijkstra
+>講解Dijkstra的運作方法及使用目的並和Kruskal比較
 - [Dijkstra Step By Step](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
 - [x] [My Kruskal and Dijkstra](https://github.com/C-WeiYu/WeiYu/blob/master/HW6/Dijkstra_06170201.py)
 ### Week16

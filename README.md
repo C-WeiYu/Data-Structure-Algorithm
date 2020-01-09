@@ -3,8 +3,8 @@ width="80" height="50" border="10" /> <img src="http://y3.ifengimg.com/ifengimcp
 alt="Welcome" width="700" height="250" border="10" />
 # About Here
 >在這裡記錄我學習程式的過程，不管資料結構與演算法或是其他的作品，</br>
-之後都會在這裡陸續更新，歡迎大家收看，可以點Follow或星星或Fork。
-# [♫Zootopia](https://www.youtube.com/watch?v=QoXPVSSHzs8) <img src="https://i.ytimg.com/vi/CoSQ4BUqa4k/maxresdefault.jpg" alt="Welcome" width="50" height="30" border="10" />
+之後都會在這裡陸續更新，歡迎大家觀看，喜歡可以點Follow或星星或Fork。
+# [來點正能量-♫Zootopia](https://www.youtube.com/watch?v=QoXPVSSHzs8) <img src="https://i.ytimg.com/vi/CoSQ4BUqa4k/maxresdefault.jpg" alt="Welcome" width="50" height="30" border="10" />
 如電影般的人生，充滿失敗與成功，成為自己的導演，掌控結局
 ## 自我介紹:   
 <img src="https://github.com/C-WeiYu/WeiYu/blob/master/S__146874373.jpg" width="180" height="180"></br>

@@ -13,7 +13,7 @@ alt="Welcome" width="700" height="250" border="10" />
 ## 課堂進度&筆記:
 **(因避免排版過於雜亂，以連結網頁內容表示上課內容)**
 ### Week1
-- 停課或放假
+- 停課
 ### Week2:Linked List
 - [Introduce Linked list](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_logo)
 - [About Leetcode](https://leetcode.com/problemset/all/)
@@ -32,7 +32,7 @@ alt="Welcome" width="700" height="250" border="10" />
 - [Bubble Sort vs Quick Sort](https://www.youtube.com/watch?v=G4dwRF_Rzd0&feature=emb_logo)
 - [x] [My Quick Sort](https://github.com/C-WeiYu/WeiYu/blob/master/HW1/QuickSort.ipynb)
 ### Week5
-- 停課或放假
+- 放假
 ### Week6:QuickSort and HeapSort
 - [補充 : About Quick Sort](http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html)
 - [補充 : About Heap Sort](http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
@@ -80,15 +80,17 @@ alt="Welcome" width="700" height="250" border="10" />
 - [About Kruskal](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%B2%81%E6%96%AF%E5%85%8B%E5%B0%94%E6%BC%94%E7%AE%97%E6%B3%95)
 - [Kruskal Step By Step](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 - [Maze By Kruskal](https://codereview.stackexchange.com/questions/197356/searching-a-maze-using-dfs-and-bfs-in-python-3)
-- [補充 : Informations]()
-### Week15
+- [Informations](https://github.com/C-WeiYu/WeiYu/blob/master/Kruskal_inf.md)
+### Week15:Shortest Path - Dijkstra
+- [Dijkstra Step By Step](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+- [x] [My Kruskal and Dijkstra](https://github.com/C-WeiYu/WeiYu/blob/master/HW6/Dijkstra_06170201.py)
 ### Week16
 - 總複習</br>
 - <a href="/pic/life.jpg"><img src="/pic/life.jpg" border="0" width="100" height="70"></a>
 ### Week17
 - 期末考
 ### Week18
-- 停課或放假
+- 停課
 ## CS50:
 ## 課程心得:
 這堂課應該是人生中最煩惱但也最充實的一堂課了，雖然說每個作業都有兩個星期的時間去寫，但卻也整整花了兩個禮拜天每熬夜都三四點才可以把程式碼實現，對我來說這堂課很辛苦也值得，雖然作業經常拿到滿分，但光芒背後有著多少的陰影是大家不知道的，我的程式能力不好，甚至我自己覺得比一半的人都差，所以過程中比別人加倍努力，就像老師常說的，可怕的不是別人比你聰明，而是聰明的人比你更努力，我也常常警惕著自己，也許自己做不到最好，至少要努力追上別人的腳步。</br>

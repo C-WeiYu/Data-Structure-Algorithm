@@ -131,12 +131,12 @@
 - [x] [HW6:Dijkstra and Kruskal](https://github.com/C-WeiYu/WeiYu/tree/master/HW6)
 ### [CodeSignal](https://github.com/C-WeiYu/WeiYu/tree/master/CodeSignal)
 > 陸續將自己程式基礎補齊的足跡
-### [LeetCode](https://github.com/C-WeiYu/WeiYu/tree/master/Leetcode)
+### [LeetCode](https://github.com/C-WeiYu/LeetCode.git)
 > 裡面有我在LeetCode慢慢累積的點滴
 ### HTML
 > 放上關於我在大學所做的html
-- [x] [Chocolate Worlde(Encoding with Big5)](https://github.com/C-WeiYu/GoogleAnalytic_Chocolate-World.git)
-- [x] [CS:GO Analysis(Encoding with utf-8)](https://github.com/C-WeiYu/Visualize_CSGO-Analysis.git)
+- [x] [Chocolate Worlde(Encoding with Big5)](https://c-weiyu.github.io/GoogleAnalytic_Chocolate-World/)
+- [x] [CS:GO Analysis(Encoding with utf-8)](https://c-weiyu.github.io/Visualize_CSGO-Analysis/)
 ## 學習之地:
 > 課外學習
 + [Data Science Meetup台灣資料科學社群](https://www.facebook.com/groups/1356636874425968/)</br>

@@ -1,6 +1,7 @@
-<img src="http://a0.att.hudong.com/45/53/50200009239445155800535897521_s.jpg"
-width="80" height="50" border="10" /> <img src="http://y3.ifengimg.com/ifengimcp/pic/20150831/ee56b0d7cf6afe54b5b2_size1767_w320_h180.gif" 
-alt="Welcome" width="700" height="250" border="10" />
+<p align="center">
+  <img src="http://y3.ifengimg.com/ifengimcp/pic/20150831/ee56b0d7cf6afe54b5b2_size1767_w320_h180.gif" alt="Welcome" width="700" height="250" border="10" />
+</p>
+
 # About Here
 >在這裡記錄我學習程式的過程，不管資料結構與演算法或是其他的作品，</br>
 之後都會在這裡陸續更新，歡迎大家觀看，喜歡可以點Follow或星星或Fork。</br>
@@ -134,8 +135,8 @@ alt="Welcome" width="700" height="250" border="10" />
 > 裡面有我在LeetCode慢慢累積的點滴
 ### HTML
 > 放上關於我在大學所做的html
-- [x] [Chocolate Worlde(Encoding with Big5)](https://c-weiyu.github.io/HTML/)
-- [x] [CS:GO Analysis(Encoding with utf-8)](https://c-weiyu.github.io/CS-GO_Analysis/)
+- [x] [Chocolate Worlde(Encoding with Big5)](https://github.com/C-WeiYu/GoogleAnalytic_Chocolate-World.git)
+- [x] [CS:GO Analysis(Encoding with utf-8)](https://github.com/C-WeiYu/Visualize_CSGO-Analysis.git)
 ## 學習之地:
 > 課外學習
 + [Data Science Meetup台灣資料科學社群](https://www.facebook.com/groups/1356636874425968/)</br>

@@ -27,7 +27,7 @@
 - [Introduce Linked List](https://www.youtube.com/watch?v=WwfhLC16bis&feature=emb_logo)
 - [About Leetcode](https://leetcode.com/problemset/all/)
 - [About Codesignal](https://codesignal.com/)
-- [x] [MY Linked list](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/707.Linked%20List.py)
+- [x] [MY Linked list](https://github.com/C-WeiYu/Data-Structure-Algorithm/blob/master/Leetcode/707_Design%20Linked%20List_06170201.py)
 ### Week3:Stack and Queue
 >接連著上禮拜的Linked List，延伸至Stack與Queue結構，並講解兩者的差異
 - [補充 : About Stack](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
